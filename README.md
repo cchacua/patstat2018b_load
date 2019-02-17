@@ -11,3 +11,6 @@ Feel free to fork this repository. Contributions are always welcome.
 Part of this code relies on [Gianluca Tarasconi's work](http://rawpatentdata.blogspot.com/), who has shared [his code](http://rawpatentdata.blogspot.com/2018/10/patstat-autumn-2018-mysql-upload-scripts.html) under a [CC 3.0 licence, Attribution-NonCommercial-ShareAlike Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
